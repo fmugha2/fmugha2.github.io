@@ -1,12 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
-/*
-	Prologue by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -2248,7 +2242,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("../../images/design.png");
+				background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("../../images/code.jpg");
 			}
 
 			#main > section.two {
@@ -2261,6 +2255,10 @@ input, select, textarea {
 
 			#main > section.four {
 				background-color: #e8edec;
+			}
+
+			#main > section.five {
+				background-color: #d5dad9;
 			}
 
 /* Wide */
@@ -2574,6 +2572,20 @@ input, select, textarea {
 				}
 
 	}
+
+/* Test */
+.column {
+	float: left;
+	width: 25%;
+	padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+	content: "";
+	clear: both;
+	display: table;
+  }
 
 /* Mobile */
 
