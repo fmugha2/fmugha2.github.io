@@ -1,2 +1,2 @@
 # fmugha2.github.io
-Website Host
+My web development portfolio, used to host/display my various projects from over the years.
