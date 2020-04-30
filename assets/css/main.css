@@ -259,6 +259,8 @@ input, select, textarea {
 		flex-wrap: wrap;
 		box-sizing: border-box;
 		align-items: stretch;
+		padding-top: 3%;
+		padding-left: 2%;
 	}
 
 		.row > * {
