@@ -260,7 +260,7 @@ input, select, textarea {
 		box-sizing: border-box;
 		align-items: stretch;
 		padding-top: 3%;
-		padding-left: 2%;
+		padding-left: 6%;
 	}
 
 		.row > * {
